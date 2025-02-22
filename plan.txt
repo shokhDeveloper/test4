@@ -1,0 +1,35 @@
+Versiya control haqida tushuntirish
+mvp haqida
+
+Bitta loyiha joylash
+
+header branch ochib u bilan farqlarini tushuntirish
+
+push qilish
+
+Nima uchun branchlar bilan ishlash zarurligini tushuntirish
+
+
+# Jamoaviy ishlash
+
+# Team lead initial commit qiladi
+
+# Dasturchilar fork qiladi
+
+# Dasturchilar projectni clone qilib oladi
+
+# Dasturchilar o'zlari ishlashlari uchun alohida branch ochishadi
+
+# O'zlari o'zlarining local main lariga merge qilishadi
+
+# O'zlarining fork qilingan repositorlariga git push qilishadi
+
+# Undan keyin team leadga contribute qilishadi
+
+# Team lead conflict bormi yo'qmi tekshiradi bo'lmasa o'ziga confirm merge qiladi
+
+# Dasturchi o'zining main branchiga barcha o'zgarishlarni ko'rish uchun git pull qiladi.
+
+# Dasturchi Asosiy team leaddagi o'zgarishlar borligini ko'rish uchun va olib kelish uchun sync for change qiladi va o'z origin mainga change larni olib keladi
+
+# Origindagilarni olib kelish uchun esa git pull
